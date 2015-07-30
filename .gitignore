@@ -1,0 +1,15 @@
+crash-reports
+logs
+.DS_Store
+saves
+.classpath
+.metadata
+.project
+.gradle
+.metadata
+eclipse
+.settings
+usernamecache.json
+*.class
+*examplemod*
+bin
